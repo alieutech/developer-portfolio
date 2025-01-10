@@ -1,12 +1,12 @@
 export const projects = [
     {
-      title: 'Blog Post',
-      description: "Blog Post Application Objective: Build a user-friendly blog platform where users can register, create and manage blog posts, update their profiles, and interact with other users.",
-        image: '/images/blog.jpg',
-        tags: ['Python', 'Django', 'HTML', 'CSS'],
-      source: 'https://github.com/alieutech/blog-post',
-      visit: 'https://github.com/alieutech/blog-post',
-      id: 0,
+      title: 'My-Portfolio',
+      description: "This portfolio showcases my skills and the projects I have worked on. Built with Next.js, it highlights my expertise in modern web development and serves as a comprehensive overview of my professional journey",
+      image: '/images/portfolio.png',
+      tags: ['Next', 'Node', 'Tailwind CSS'],
+      source: 'https://github.com/alieutech/developer-portfolio',
+      visit: 'https://developer-portfolio-eight-ruddy.vercel.app/',
+      id: 1,
     },
     {
       title: 'BookStore',
@@ -15,7 +15,7 @@ export const projects = [
       tags: ['MongoDB', 'Express', 'React', 'Node'],
       source: 'https://github.com/alieutech/BookStore-MERN-STACK',
       visit: 'https://github.com/alieutech/BookStore-MERN-STACK',
-      id: 1,
+      id: 2,
     },
     {
       title: 'E-Commerce-Store',
@@ -24,16 +24,28 @@ export const projects = [
         tags: ['Python', 'Django', 'Bootstrap'],
       source: 'https://github.com/alieutech/Ecommerce_Store',
       visit: 'https://github.com/alieutech/Ecommerce_Store',
-      id: 2,
+      id: 3,
     },
+    
     {
+      title: 'Blog Post',
+      description: "Blog Post Application Objective: Build a user-friendly blog platform where users can register, create and manage blog posts, update their profiles, and interact with other users.",
+        image: '/images/blog.jpg',
+        tags: ['Python', 'Django', 'HTML', 'CSS'],
+      source: 'https://github.com/alieutech/blog-post',
+      visit: 'https://github.com/alieutech/blog-post',
+      id: 4,
+    },
+    
+    {
+      
       title: 'Repair-Shop',
       description: "Alieu's Repair Shop is a modern, full-stack web application designed to streamline repair service management. Built with Next.js for its robust server-side rendering and dynamic routing capabilities, and styled using Tailwind CSS for a sleek, responsive user interface, this project offers an efficient solution for managing repair requests, tracking service progress, and enhancing customer experience.",
       image: '/images/repair-shop.jpg',
       tags: ['React', 'Next', 'Node', 'Tailwind CSS'],
       source: 'https://github.com/alieutech/Alieu-s-Repair-shop',
       visit: 'https://alieu-s-repair-shop.vercel.app/home',
-      id: 3,
+      id: 5,
     },
   ];
   

@@ -1,4 +1,5 @@
 ## Welocome to my official portfolio
+This portfolio showcases my skills and the projects I have worked on. Built with Next.js, it highlights my expertise in modern web development and serves as a comprehensive overview of my professional journey
 
 ## Getting Started
 
