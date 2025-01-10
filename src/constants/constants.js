@@ -3,7 +3,7 @@ export const projects = [
       title: 'My-Portfolio',
       description: "This portfolio showcases my skills and the projects I have worked on. Built with Next.js, it highlights my expertise in modern web development and serves as a comprehensive overview of my professional journey",
       image: '/images/portfolio.png',
-      tags: ['Next', 'Node', 'Tailwind CSS'],
+      tags: ['Next', 'Node'],
       source: 'https://github.com/alieutech/developer-portfolio',
       visit: 'https://developer-portfolio-eight-ruddy.vercel.app/',
       id: 1,
