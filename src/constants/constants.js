@@ -11,7 +11,7 @@ export const projects = [
     {
       title: 'BookStore',
       description:"The BookStore application is a full-stack web platform built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It allows users to browse, purchase, and manage books online, with features tailored for both customers and administrators.",
-      image: '/images/repair-shop.jpg',
+      image: '/images/book-store.png',
       tags: ['MongoDB', 'Express', 'React', 'Node'],
       source: 'https://github.com/alieutech/BookStore-MERN-STACK',
       visit: 'https://github.com/alieutech/BookStore-MERN-STACK',
@@ -20,7 +20,7 @@ export const projects = [
     {
       title: 'E-Commerce-Store',
       description: "Developed a robust e-commerce platform using Django for backend services. Leveraged Bootstrap for a visually appealing and user-friendly frontend",
-        image: '/images/cool-tree.jpg',
+        image: '/images/ecom.png',
         tags: ['Python', 'Django', 'Bootstrap'],
       source: 'https://github.com/alieutech/Ecommerce_Store',
       visit: 'https://github.com/alieutech/Ecommerce_Store',
