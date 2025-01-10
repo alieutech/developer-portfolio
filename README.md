@@ -1,4 +1,4 @@
-## Welocome to my official portfolio.
+## Welocome to my official portfolio
 
 ## Getting Started
 
